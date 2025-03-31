@@ -1,4 +1,4 @@
-if(1>0){
+if(10>0){
     var nome = 'Ana';
     console.log(nome)
 }
